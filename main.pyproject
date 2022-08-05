@@ -1,0 +1,3 @@
+{
+    "files": ["voiceRecognition.qml","main.py","sendwav.py","record_voice_send.py"]
+}
